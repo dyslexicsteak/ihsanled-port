@@ -1,0 +1,4 @@
+[wokwi]
+elf = 'target/avr-atmega328p/release/ihsanled.elf'
+firmware = 'target/avr-atmega328p/release/ihsanled.elf'
+version = 1
